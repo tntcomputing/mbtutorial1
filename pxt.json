@@ -1,5 +1,7 @@
 {
   "name": "simple-tutorial",
+  "target": "microbit",
+  "targetVersion": "3.0.0",
   "dependencies": {
     "core": "*"
   },
@@ -8,3 +10,4 @@
   ],
   "preferredEditor": "blocksprj"
 }
+
